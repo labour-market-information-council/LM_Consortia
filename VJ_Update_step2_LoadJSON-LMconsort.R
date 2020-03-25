@@ -487,6 +487,7 @@ for(m in month_folders){
    ALL_T[province == 'ON' & location == 'Mount Forest', district:= 'Wellington County']
    ALL_T[province == 'ON' & location == 'Grand Valley', district:= 'Dufferin County']
    ALL_T[province == 'QC' & location == 'La Nouvelle-Beauce', district:='Chaudière-Appalaches']
+   ALL_T[province == 'AB' & location == 'Grandin',    district:= 'Division 12']
    
    
    # Recode devRegion
