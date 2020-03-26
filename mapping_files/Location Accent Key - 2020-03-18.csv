@@ -168,7 +168,7 @@ index,clean,location_raw,province,location_correct,source
 167,Blandford,Blandford,ON,Blandford,Manual
 168,Blenheim,Blenheim,ON,Blenheim,Manual
 169,Blind River,Blind River,ON,Blind River,CSD
-170,Blue Mountains,Blue Mountains,ON,Blue Mountains,Manual
+170,Blue Mountains,Blue Mountains,ON,The Blue Mountains,Manual
 171,Blue Sea,Blue Sea,QC,Blue Sea,CSD
 172,Bluewater,Bluewater,ON,Bluewater,CSD
 173,Blyth,Blyth,ON,Blyth,PC
@@ -2057,7 +2057,7 @@ index,clean,location_raw,province,location_correct,source
 2057,St George,St George,ON,St. George,CSD
 2058,St Johns,St Johns,NL,St. John's,Manual
 2059,St Lina,St Lina,AB,St. Lina,Manual
-2060,St Mary,St Mary,ON,Is it St. Marys,Manual
+2060,St Mary,St Mary,ON,St. Marys,Manual
 2061,St Marys,St Marys,ON,St. Marys,CSD
 2062,St Michael,St Michael,AB,St. Michael,Manual
 2063,St Paul,St Paul,AB,St. Paul,CSD
