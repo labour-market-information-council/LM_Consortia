@@ -1,4 +1,4 @@
-﻿index,clean,location_raw,province,location_correct,source
+index,clean,location_raw,province,location_correct,source
 1,Abbotsford,Abbotsford,BC,Abbotsford,CSD
 2,Abercorn,Abercorn,QC,Abercorn,CSD
 3,Abitibi,Abitibi,QC,Abitibi,Manual
@@ -1661,7 +1661,6 @@
 1660,Saint Damase,Saint-Damase,QC,Saint-Damase,CSD
 1661,Saint Damien,Saint-Damien,QC,Saint-Damien,CSD
 1662,Saint Damien de Buckland,Saint-Damien-de-Buckland,QC,Saint-Damien-de-Buckland,CSD
-1663,Saint David,Saint-David,QC,Saint David,CSD
 1664,Saint David,Saint-David,QC,Saint-David,CSD
 1665,Saint David de Falardeau,Saint-David-de-Falardeau,QC,Saint-David-de-Falardeau,CSD
 1666,Saint Denis de Brompton,Saint-Denis-de-Brompton,QC,Saint-Denis-de-Brompton,CSD
